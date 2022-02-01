@@ -107,21 +107,21 @@ osd.border.width: 1
 osd.border.color: #cad1dc
 
 osd.bg: flat solid
-osd.bg.color: #2f3b41
+osd.bg.color: #3b4252
 osd.label.bg: flat solid
-osd.label.bg.color: #2f3b41
+osd.label.bg.color: #3b4252
 osd.label.text.color: #d8dee9
 
 # OSD
 osd.bg: Solid Flat
-osd.bg.color: #2f3b41
+osd.bg.color: #3b4252
 osd.bg.shadow: 0
 
 osd.border.width: 2
 osd.hilight.bg: Solid Flat
-osd.hilight.bg.color: #2f3b41
+osd.hilight.bg.color: #d8dee9
 osd.unhilight.bg: flat solid
-osd.unhilight.bg.color: #d8dee9
+osd.unhilight.bg.color: #3b4252
 
 osd.button.unpressed.bg: flat border
 osd.button.unpressed.bg.color: #d8dee9
